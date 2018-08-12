@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">New App 2</string>
+    <string name="whoops">Oh No! There was no data found. Try refreshing the screen.</string>
+    <string name="no_connection">We have lost the Internet connection. Try again.</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <string name="settings_search_term_label">Search Term</string>
+    <string name="directions_search_term">AND,OR, NOT can be used for a more detailed search</string>
+    <string name="settings_search_term_key" translatable="false">search_term</string>
+    <string name="settings_search_term_default" translatable="false">ufc</string>
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+
+    <!-- Label for order-by newest date option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <!-- Label for order-by oldest date option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+    <!-- Label for order-by relevance option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+
+
+</resources>
